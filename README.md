@@ -8,7 +8,7 @@ pb
 pb -o shot.png
 ```
 
-Windows first. One binary. No account.
+Windows first. One binary. No account. GPL-3.
 
 ```text
 git clone https://github.com/VesperRun/pb-clipcat.git
@@ -77,3 +77,9 @@ Copy converts `\n` to CRLF so Notepad is happy. Paste converts CRLF to `\n` so p
 ## Not
 
 This is not Apple's `pbcopy` / `pbpaste`. It is not the Clipboard Project (`cb`). It is a brick: one clipboard, one process, then you leave.
+
+## License
+
+[GNU GPL-3.0 only](LICENSE). Pro Bono Populi (Philosophia Vesperi §XI).
+
+The full tool is for the people. No paid tier. If you distribute pb or a modified version, you must do so under GPL-3 and provide the source.
